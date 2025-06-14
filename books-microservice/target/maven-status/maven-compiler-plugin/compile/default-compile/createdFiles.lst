@@ -1,0 +1,11 @@
+com\porfolio\books_microservice\controller\LibroController.class
+com\porfolio\books_microservice\service\ILibroService.class
+com\porfolio\books_microservice\BooksMicroserviceApplication.class
+com\porfolio\books_microservice\config\CloudinaryConfig.class
+com\porfolio\books_microservice\dto\GenerosUnicosDTO.class
+com\porfolio\books_microservice\repository\LibroRepository.class
+com\porfolio\books_microservice\dto\LibroDTO.class
+com\porfolio\books_microservice\model\Libro.class
+com\porfolio\books_microservice\dto\LibroRequestDTO.class
+com\porfolio\books_microservice\service\LibroService.class
+com\porfolio\books_microservice\config\CloudinaryProperties.class

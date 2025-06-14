@@ -1,0 +1,10 @@
+com\porfolio\user_microservice\repository\UserRepository.class
+com\porfolio\user_microservice\dto\UserRequest.class
+com\porfolio\user_microservice\config\SecurityConfig.class
+com\porfolio\user_microservice\service\IUserService.class
+com\porfolio\user_microservice\service\UserServiceImpl.class
+com\porfolio\user_microservice\exception\ValidationExceptionHandler.class
+com\porfolio\user_microservice\controller\UserController.class
+com\porfolio\user_microservice\dto\UserResponse.class
+com\porfolio\user_microservice\UserMicroserviceApplication.class
+com\porfolio\user_microservice\model\User.class
